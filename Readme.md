@@ -1,9 +1,9 @@
 
 # **Asistex**
 
-## Sublime Text 3 asistex Theme
+## Sublime Text 3 asistex Color Scheme
 
-How to install on win 
+How to install on win
 
 From Sublime main menu goto :
   - Main menu
@@ -31,5 +31,13 @@ From Sublime main menu goto :
     Select `asistex_1`
 
 
-
 [![image](https://github.com/asistex/Sublime-Text-Themes/blob/master/sample.jpg)](https://github.com/asistex/Sublime-Text-Themes/)
+
+---
+# Color Schemes
+
+[With this tool](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai) you can get a lot of `Color Schemes` for Sublime Text or create your owns.
+
+Download and install them in the same way of the above
+
+---
