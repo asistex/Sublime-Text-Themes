@@ -38,6 +38,8 @@ From Sublime main menu goto :
 
 [With this tool](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Monokai) you can get a lot of `Color Schemes` for Sublime Text or create your owns.
 
-Download and install them in the same way of the above
+Copyright
+tmThemeEditor
+© Copyright 2012-2015 Allen Bargi
 
 ---
